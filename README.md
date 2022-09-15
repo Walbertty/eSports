@@ -1,6 +1,6 @@
 # eSports
 
-![preview](./.Github/preview.png)
+![preview](./.github/preview.png)
 
 Project built by me to train and use some acquired knowledge
 
